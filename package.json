@@ -1,0 +1,14 @@
+{
+  "name": "@types/auth0-js",
+  "version": "0.0.0",
+  "description": "Auth0 bindings with v7",
+  "author": "NeonCity team",
+  "respository": {
+    "type": "git",
+    "url": "git+https://github.com/neoncity/auth0-js-with-v7.git"
+  },
+  "private": true,
+  "homepage": "https://github.com/neoncity/auth0-js-with-v7#readme",
+  "types": "./index.d.ts",
+  "license": "UNLICENSED"
+}
